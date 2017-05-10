@@ -45,4 +45,21 @@ class HelloWorld extends Specification {
     }
 
 
+    def 'should throw exception'(){
+        when:
+        def i = 4/0
+
+        then:
+        thrown(RuntimeException)
+    }
+
+    def 'should not throw exception'(){
+        when:
+        def i = 4/2
+
+        then:
+        notThrown(RuntimeException)
+    }
+
+
 }
