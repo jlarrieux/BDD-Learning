@@ -1,0 +1,16 @@
+<application>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="JavaFxSettings">
+    <option name="pathToSceneBuilder" value="C:/Program Files/Gluon/SceneBuilder/SceneBuilder.exe" />
+    <option name="myPathToSceneBuilder" value="C:/Program Files/Gluon/SceneBuilder/SceneBuilder.exe" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+  </component>
+</application>
