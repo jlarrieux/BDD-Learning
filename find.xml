@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[FP-FourBox-Viewer_main] - ...\src\main'" />
-    <option name="defaultScopeName" value="Directory '[FP-FourBox-Viewer_main] - ...\src\main'" />
-    <option name="SEARCH_SCOPE" value="Directory '[FP-FourBox-Viewer_main] - ...\src\main'" />
+    <option name="customScope" value="Project 'FP-FourBox-Viewer'" />
+    <option name="defaultScopeName" value="Project 'FP-FourBox-Viewer'" />
+    <option name="SEARCH_SCOPE" value="Project 'FP-FourBox-Viewer'" />
   </component>
 </application>
