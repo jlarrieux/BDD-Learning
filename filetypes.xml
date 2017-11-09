@@ -8,10 +8,11 @@
   </component>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="TEXT" type="PLAIN_TEXT" />
+      <mapping pattern="placeholder" type="PLAIN_TEXT" />
       <mapping pattern="OKREditDialog.fxml" type="PLAIN_TEXT" />
       <mapping pattern="NewProjectDialog.fxml" type="PLAIN_TEXT" />
-      <mapping pattern="placeholder" type="PLAIN_TEXT" />
+      <mapping pattern="TEXT" type="PLAIN_TEXT" />
+      <mapping pattern="red" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
