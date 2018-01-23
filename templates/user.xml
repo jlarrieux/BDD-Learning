@@ -17,7 +17,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="main" value="public static void main(String[] args){&#10;    $END$&#10;}" toReformat="true" toShortenFQNames="true">
+  <template name="main" value="public static void main(String[] args){&#10;    $END$&#10;}" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
